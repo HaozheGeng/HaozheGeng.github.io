@@ -1,2 +1,0 @@
-learn git is easy
-learn git is difficult
