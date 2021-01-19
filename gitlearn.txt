@@ -14,3 +14,4 @@
 
 12345678 dev_1
 >>>>>>> a8ab2f7c82a6834a57bee454a0f3c83ce1714241
+this is a new line. dev1
